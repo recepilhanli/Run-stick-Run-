@@ -1,4 +1,4 @@
-# Run-stick-Run!
+# Run Stickman, Run!
 ![GitHub Release](https://img.shields.io/badge/Released-22.01.23-blue)
 
 A hyper-casual game made from Unreal 4 BP.
