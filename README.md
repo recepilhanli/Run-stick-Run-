@@ -8,6 +8,7 @@ A hyper-casual game made from Unreal 4 BP.
 it has simple controls. All you have to do is draw the way.
 
 [![Gameplay Video](https://img.youtube.com/vi/sBAY7XqvznY/0.jpg)](https://www.youtube.com/watch?v=sBAY7XqvznY)
+
 [![Gameplay Video](https://img.youtube.com/vi/Z9pCe5SLc_0/0.jpg)](https://www.youtube.com/watch?v=Z9pCe5SLc_0)
 
 
